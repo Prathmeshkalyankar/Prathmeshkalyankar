@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 & 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔**
 
-- 🌱 I’m currently learning **𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 & 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔, 𝑮𝒆𝒏𝒆𝒓𝒂𝒕𝒊𝒗𝒆 𝑨𝑰**
+- 🌱 I’m currently learning **𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 , 𝑮𝒆𝒏𝒆𝒓𝒂𝒕𝒊𝒗𝒆 𝑨𝑰**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prathmeshkalyankar?tab=repositories](https://github.com/Prathmeshkalyankar?tab=repositories)
 
