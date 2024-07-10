@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 𝐏𝐫𝐚𝐭𝐡𝐦𝐞𝐬𝐡 𝐊𝐚𝐥𝐲𝐚𝐧𝐤𝐚𝐫</h1>
 <h3 align="center">𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗶𝗻𝘁𝗲𝗿𝗻 𝘄𝗵𝗼𝗹𝗹𝘆 𝗲𝗻𝗴𝗮𝗴𝗲𝗱 𝗶𝗻 𝘁𝗵𝗲 𝗰𝗮𝗽𝘁𝗶𝘃𝗮𝘁𝗶𝗻𝗴 𝗳𝗶𝗲𝗹𝗱 𝗼𝗳 𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗶𝗻 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲｡</h3>
 
-<img align="center" src="https://github.com/Prathmeshkalyankar/linkedin/blob/main/Gray%20Modern%20Digital%20Marketing%20Linkedln%20Article%20Cover%20Image%20(1).png" alt="Prathmesh Kalyankar" width="200" height="200" style="border-radius: 50%;">
+<img align="center" src="https://github.com/Prathmeshkalyankar/linkedin/blob/main/Gray%20Modern%20Digital%20Marketing%20Linkedln%20Article%20Cover%20Image%20(1).png" alt="Prathmesh Kalyankar" width="100%">
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
