@@ -1,5 +1,4 @@
-![logo](https://github.com/Prathmeshkalyankar/D:\PRATHMESH1\Gray Modern Digital Marketing Linkedln Article Cover Image (1).png
-(https://www.canva.com/design/DAGKhWx1j0Q/Yg51hY6onYF8k8UoAGZ-Xw/edit)(https://www.canva.com/design/DAGKhWx1j0Q/Yg51hY6onYF8k8UoAGZ-Xw/edit)
+
 <h1 align="center">Hi 👋, I'm 𝐏𝐫𝐚𝐭𝐡𝐦𝐞𝐬𝐡 𝐊𝐚𝐥𝐲𝐚𝐧𝐤𝐚𝐫</h1>
 <h3 align="center">𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗶𝗻𝘁𝗲𝗿𝗻 𝘄𝗵𝗼𝗹𝗹𝘆 𝗲𝗻𝗴𝗮𝗴𝗲𝗱 𝗶𝗻 𝘁𝗵𝗲 𝗰𝗮𝗽𝘁𝗶𝘃𝗮𝘁𝗶𝗻𝗴 𝗳𝗶𝗲𝗹𝗱 𝗼𝗳 𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗶𝗻 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲｡</h3>
 
